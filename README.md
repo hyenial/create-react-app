@@ -114,7 +114,7 @@ You will see the build errors and lint warnings in the console.
 
 
 
-<h3> npm install -g less does not work: EACCES: permission denied </h3>
+<h3> ```npm install -g less does not work: EACCES: permission denied ```</h3>
 
 <p>To minimize the chance of permissions errors, you can configure npm to use a different directory. In this example, it will be a hidden directory on your home folder.
 
